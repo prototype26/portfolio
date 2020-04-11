@@ -1,0 +1,180 @@
+{
+  "main": {
+    "name":"Mohammad Akbar",
+    "occupation":"Full Stack Developer",
+    "description":"I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations. I want to make things that make a difference",
+    "image":"portfolio_picture.jpg",
+    "bio":"Hi I'm Akbar a self taught, design thinking full-stack JavaScript developer with a passion for developing interactive websites. I'm currently living in Thane, Mumbai. I have a zeal to learn and implement latest technology stacks that helps an application achieve speed, security and scalablity.My focus for now is heavily in both frontend and backend web development. My favorite development stack at the moment is React, Node, MongoDB, Express, Spring. Values I hold high are loyalty, reliability, authenticity and helping other achieve their success. Which is why I see projects through to the end and why I believe in not only creating beautiful software but also reliable and reflect the client's brand and that is easy to use so that it does not distract user experience Whether it’s creating servers in Node, connecting to MongoDB databases or designing unique user experiences through React per device whilst still maintaining a consistent brand experience, I can bring ideas to life.",
+    "contactmessage":"You can connect me on.",
+    "email": "mdakbar2608@gmail.com",
+    "phone": "8793720378",
+    "address":{
+      "street":"Flat 402, Building 11, Krishna Greenland Society",
+      "city":"Thane",
+      "state":"Maharashtra",
+      "zip": "400615"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/akbar.mohammad.140",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/mohammadakbar",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohammad-akbar-616b33117",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/akbar_2608",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/prototype26",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Maharashtra Institute of technology",
+        "degree":"Bachelors in Electronics and Telecommunication Engineering",
+        "graduated":"May 2018",
+        "description":""
+      },
+      {
+        "school":"Mahaveer Marwadi Junior College",
+        "degree":"Intermediate",
+        "graduated":"April 2012",
+        "description":""
+      },
+      {
+        "school":"Gujrati National High School",
+        "degree":"Primary/Secondary School",
+        "graduated":"May 2010",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Tata Consultancy Services",
+        "title":"Full Stack Developer",
+        "years":"February 2019 - Present",
+        "description":"I have been working on an internal project TCS ION which is an online portal for learning and examination. Worked in a digital survey team to create a data processing and analysing web app for Nielsen Hodings Plc.Worked with TCS ION internal team to design and implement facial recognition feature for TCS ION internal login. Developed human resource and asset management application to monitor testing device flow and control on ground using spring framework."
+      },
+      {
+        "company":"Smart India Hackathon - Govt. of India",
+        "title":"Team Leader",
+        "years":"March - 2018",
+        "description":"Secured All India Rank 3rd in Ministry of Food Processing Industries. Developed frontend of android application to connect farmers and food processing industries. Supported backend development of android application. Used Amazon Web Services for cloud services."
+      },
+      {
+        "company":"Machine learning projects",
+        "title":"Kaggle.com",
+        "years":"March - 2019 - present",
+        "description":"Handwritten digit recognition using neural nets, generated accuracy of 96%, House price prediction using random forest regressor and decision tree regressor and applied grid search CV for hyperparameter tuning thereby getting accuracy of 88%, Titanic : Passenger survival prediction using random forest classifier to obtain accuracy of 92%."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Express",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"Spring",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart India Hackathon - Govt of India",
+        "category":"Android app to connect farmers and food processing industries",
+        "image":"smart_india_hackathon.jpg",
+        "url":""
+      },
+      {
+        "title":"Hand Written Digit Recognition",
+        "category":"Digit recogniser using nueral networks",
+        "image":"hand_written_digit.png",
+        "url":""
+      },
+      {
+        "title":"House prices prediction",
+        "category":"Predictive algorithm using decision tree regressor and random forest regressor",
+        "image":"house_price.png",
+        "url":""
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"resume_website.jpg",
+        "url":""
+      },
+      {
+        "title":"Burger bulding and ordering application",
+        "category":"(MVP Only) A React based personal project for skills enhancement.",
+        "image":"burger_builder.png",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
